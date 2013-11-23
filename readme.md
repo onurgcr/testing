@@ -1,3 +1,1 @@
-Pisi Paket Test Deposu.
-Onur Göçer
-onur.gcr@gmail.com
+Pisi Paket Test Depom // Onur GÖÇER // onur.gcr@gmail.com //
